@@ -1,3 +1,3 @@
 Sample content goes here.
 
-And another line added.  This one needs to cause a conflict.
+And another line added.  This caused a conflict between branch and origin.
